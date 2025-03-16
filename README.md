@@ -1,10 +1,6 @@
 ### Hi, I'm Roger 👋
 
 
-![](https://github.com/RodgerLeblanc/github-stats/blob/master/generated/overview.svg)
-
-![](https://github.com/RodgerLeblanc/github-stats/blob/master/generated/languages.svg)
-
 <!--
 **RodgerLeblanc/RodgerLeblanc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
